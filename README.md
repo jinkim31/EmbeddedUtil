@@ -1,7 +1,7 @@
 # EmbeddedUtil
 
-##Demo codes
-#Moving average filter
+## Demo codes
+# Moving average filter
 ```
 int main()
 {
@@ -18,7 +18,7 @@ int main()
 	}
 }
 ```
-#IIR filter
+# IIR filter
 ```
 int main()
 {
@@ -40,7 +40,7 @@ int main()
 	}
 }
 ```
-#Median filter
+# Median filter
 ```
 int main()
 {
