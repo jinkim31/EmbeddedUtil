@@ -1,4 +1,5 @@
 # EmbeddedUtil
+Filter, math implementations for embedded system development.
 
 ## Demo codes
 ### Moving average filter
